@@ -1,6 +1,6 @@
 # Aplicación de Conversión de Monedas y Temperaturas
 
-![Logo de la Aplicación](link_al_logo.png) (Si tienes un logo para la aplicación, puedes agregarlo aquí)
+
 
 ## Descripción
 
@@ -14,14 +14,14 @@ La Aplicación de Conversión de Monedas y Temperaturas es una herramienta avanz
 
 ## Capturas de Pantalla
 
-![Captura de Pantalla 1](link_a_screenshot_1.png)
-![Captura de Pantalla 2](link_a_screenshot_2.png)
+![image](https://github.com/CLP7432/Conversor_moneda_Challenge_ONE_Java/assets/121730557/485e4125-c54f-4376-a318-bd92e0d2186a)
+
 
 ## Instalación
 
 1. Clona el repositorio en tu máquina local:
 
-2. 
+  
 2. Abre el proyecto en tu entorno de desarrollo Java preferido.
 
 3. Compila y ejecuta la aplicación.
